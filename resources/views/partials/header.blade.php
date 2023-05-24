@@ -1,5 +1,5 @@
 <header>
     <h1 class="text-center">
-        SONO SOPRAVVISSUTA
+        Movie Database
     </h1>
 </header>
